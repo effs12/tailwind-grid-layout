@@ -13,12 +13,5 @@ Example of bootstrap grid:
   </div>
 </div>
 ```
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm">One of three columns</div>
-    <div class="col-sm">One of three columns</div>
-    <div class="col-sm">One of three columns</div>
-  </div>
-</div>
+![Alt text](./public/assets/images/bootstrap-3-grid.png?raw=true "Title")
 
