@@ -1,5 +1,5 @@
 # tailwind-grid-layout
-A simple reacreation of Bootstrap Grid using Tailwind CSS grids 
+A simple recreation guide of Bootstrap Grid using Tailwind CSS grids.
 
 ## Example and Usage
 
